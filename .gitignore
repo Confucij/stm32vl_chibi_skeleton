@@ -3,6 +3,8 @@
 *.ko
 *.obj
 *.elf
+*.bin
+*.d
 
 # Precompiled Headers
 *.gch
@@ -30,3 +32,8 @@
 
 # Debug files
 *.dSYM/
+
+#Build directories
+obj/
+out/
+nbproject/
